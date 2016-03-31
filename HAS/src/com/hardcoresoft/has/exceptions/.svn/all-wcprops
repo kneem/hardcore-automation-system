@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13/trunk/HAS/src/com/hardcoresoft/has/exceptions
+END
+NameConflictException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/13/trunk/HAS/src/com/hardcoresoft/has/exceptions/NameConflictException.java
+END
+NotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10/trunk/HAS/src/com/hardcoresoft/has/exceptions/NotFoundException.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples
+END
+examples_guide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/examples_guide.txt
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/build.properties
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/build.xml
+END

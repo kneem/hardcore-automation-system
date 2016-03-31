@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web
+END
+jetty-all-server-7.1.6.v20100715.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/jetty-all-server-7.1.6.v20100715.jar
+END
+rome-0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/rome-0.8.jar
+END
+jdom-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/jdom-1.0.jar
+END
+core-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/core-3.1.1.jar
+END
+slf4j-jcl-1.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/slf4j-jcl-1.5.0.jar
+END
+slf4j-api-1.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/slf4j-api-1.5.0.jar
+END
+jsp-2.1-glassfish-2.1.v20100127.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/jsp-2.1-glassfish-2.1.v20100127.jar
+END
+spring-web-3.0.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/spring-web-3.0.3.RELEASE.jar
+END
+geronimo-servlet_2.5_spec-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/geronimo-servlet_2.5_spec-1.2.jar
+END
+jetty-websocket-7.1.6.v20100715.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/jetty-websocket-7.1.6.v20100715.jar
+END
+sitemesh-2.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/sitemesh-2.2.1.jar
+END
+commons-management-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/commons-management-1.0.jar
+END
+spring-webmvc-3.0.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/spring-webmvc-3.0.3.RELEASE.jar
+END
+jsp-api-2.1-glassfish-2.1.v20100127.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/web/jsp-api-2.1-glassfish-2.1.v20100127.jar
+END

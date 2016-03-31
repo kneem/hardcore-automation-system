@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/jms
+END
+forEachConnection.tag
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/jms/forEachConnection.tag
+END
+formatTimestamp.tag
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/jms/formatTimestamp.tag
+END
+forEachMessage.tag
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/jms/forEachMessage.tag
+END
+persistent.tag
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/jms/persistent.tag
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/bin
+END
+buildcp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/bin/buildcp.bat
+END
+addpath.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/bin/addpath.bat
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/bin/readme.txt
+END
+buildcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/bin/buildcp.sh
+END

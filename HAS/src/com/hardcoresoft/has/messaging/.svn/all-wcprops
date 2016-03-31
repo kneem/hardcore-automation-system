@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/77/trunk/HAS/src/com/hardcoresoft/has/messaging
+END
+LightingMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/64/trunk/HAS/src/com/hardcoresoft/has/messaging/LightingMessageListener.java
+END
+MessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/55/trunk/HAS/src/com/hardcoresoft/has/messaging/MessageHandler.java
+END
+SecurityMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/68/trunk/HAS/src/com/hardcoresoft/has/messaging/SecurityMessageListener.java
+END
+HVACMessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/64/trunk/HAS/src/com/hardcoresoft/has/messaging/HVACMessageSender.java
+END
+LightingMessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/77/trunk/HAS/src/com/hardcoresoft/has/messaging/LightingMessageSender.java
+END
+MessageGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/55/trunk/HAS/src/com/hardcoresoft/has/messaging/MessageGenerator.java
+END
+HVACMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/69/trunk/HAS/src/com/hardcoresoft/has/messaging/HVACMessageListener.java
+END
+SecurityMessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/68/trunk/HAS/src/com/hardcoresoft/has/messaging/SecurityMessageSender.java
+END

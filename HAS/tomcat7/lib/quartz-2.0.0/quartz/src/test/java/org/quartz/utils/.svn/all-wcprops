@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/utils
+END
+DirtyFlagMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/utils/DirtyFlagMapTest.java
+END
+ClassUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/utils/ClassUtilsTest.java
+END
+PropertiesParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/utils/PropertiesParserTest.java
+END

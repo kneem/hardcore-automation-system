@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15
+END
+instance2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/instance2.sh
+END
+tc_clustering_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/tc_clustering_readme.txt
+END
+instance1.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/instance1.properties
+END
+instance2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/instance2.properties
+END
+stop-sample-server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/stop-sample-server.sh
+END
+start-sample-server.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/start-sample-server.bat
+END
+start-sample-server.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/start-sample-server.sh
+END
+instance1.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/instance1.bat
+END
+instance2.bat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/instance2.bat
+END
+stop-sample-server.bat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/stop-sample-server.bat
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/log4j.xml
+END
+instance1.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/example15/instance1.sh
+END

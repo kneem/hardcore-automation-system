@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf
+END
+activemq-throughput.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-throughput.xml
+END
+camel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/camel.xml
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/logging.properties
+END
+activemq-command.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-command.xml
+END
+activemq-dynamic-network-broker1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-dynamic-network-broker1.xml
+END
+activemq-dynamic-network-broker2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-dynamic-network-broker2.xml
+END
+activemq-static-network-broker1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-static-network-broker1.xml
+END
+credentials.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/credentials.properties
+END
+activemq-static-network-broker2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-static-network-broker2.xml
+END
+jetty-realm.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/jetty-realm.properties
+END
+client.ks
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/client.ks
+END
+activemq-demo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-demo.xml
+END
+credentials-enc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/credentials-enc.properties
+END
+jetty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/jetty.xml
+END
+jmx.access
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/jmx.access
+END
+jmx.password
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/jmx.password
+END
+broker.ks
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/broker.ks
+END
+client.ts
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/client.ts
+END
+activemq-scalability.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-scalability.xml
+END
+broker-localhost.cert
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/broker-localhost.cert
+END
+activemq-stomp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-stomp.xml
+END
+activemq-jdbc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-jdbc.xml
+END
+activemq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq.xml
+END
+broker.ts
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/broker.ts
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/log4j.properties
+END
+activemq-specjms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-specjms.xml
+END
+activemq-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/conf/activemq-security.xml
+END

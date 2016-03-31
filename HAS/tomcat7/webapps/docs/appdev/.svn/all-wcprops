@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/appdev
+END
+source.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/appdev/source.html
+END
+deployment.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/appdev/deployment.html
+END
+installation.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/appdev/installation.html
+END
+introduction.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/appdev/introduction.html
+END
+processes.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/appdev/processes.html
+END
+web.xml.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/appdev/web.xml.txt
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/appdev/index.html
+END
+build.xml.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/appdev/build.xml.txt
+END

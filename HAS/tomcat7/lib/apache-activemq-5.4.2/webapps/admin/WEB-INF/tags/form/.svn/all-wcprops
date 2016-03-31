@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/form
+END
+checkbox.tag
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/form/checkbox.tag
+END
+forEachMapEntry.tag
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/form/forEachMapEntry.tag
+END
+option.tag
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/form/option.tag
+END
+tooltip.tag
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/form/tooltip.tag
+END
+uri.tag
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/form/uri.tag
+END
+short.tag
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/form/short.tag
+END
+text.tag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/admin/WEB-INF/tags/form/text.tag
+END

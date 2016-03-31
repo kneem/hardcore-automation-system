@@ -1,0 +1,64 @@
+10
+
+dir
+87
+https://hardcore-automation-system.googlecode.com/svn/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/org/apache/camel/web/resources
+https://hardcore-automation-system.googlecode.com/svn
+
+
+
+2011-03-21T17:59:20.612952Z
+4
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a59c25e4-c386-647b-6adf-11d09d8edeb5
+
+ConvertersResource
+dir
+
+RouteResource
+dir
+
+ConvertersFromResource
+dir
+
+EndpointResource
+dir
+
+RoutesResource
+dir
+
+ExchangeResource
+dir
+
+ComponentResource
+dir
+
+EndpointsResource
+dir
+
+LanguageResource
+dir
+
+ComponentsResource
+dir
+
+LanguagesResource
+dir
+
+CamelContextResource
+dir
+

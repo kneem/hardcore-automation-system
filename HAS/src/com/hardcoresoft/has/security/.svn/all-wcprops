@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/70/trunk/HAS/src/com/hardcoresoft/has/security
+END
+UserSecurity.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/50/trunk/HAS/src/com/hardcoresoft/has/security/UserSecurity.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/70/trunk/HAS/src/com/hardcoresoft/has/security/Login.java
+END
+ChangePassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/69/trunk/HAS/src/com/hardcoresoft/has/security/ChangePassword.java
+END
+Logout.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/69/trunk/HAS/src/com/hardcoresoft/has/security/Logout.java
+END

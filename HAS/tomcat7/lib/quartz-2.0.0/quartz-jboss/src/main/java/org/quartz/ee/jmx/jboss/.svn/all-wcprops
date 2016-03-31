@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz-jboss/src/main/java/org/quartz/ee/jmx/jboss
+END
+QuartzService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz-jboss/src/main/java/org/quartz/ee/jmx/jboss/QuartzService.java
+END
+JBoss4RMIRemoteMBeanScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz-jboss/src/main/java/org/quartz/ee/jmx/jboss/JBoss4RMIRemoteMBeanScheduler.java
+END
+QuartzServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz-jboss/src/main/java/org/quartz/ee/jmx/jboss/QuartzServiceMBean.java
+END

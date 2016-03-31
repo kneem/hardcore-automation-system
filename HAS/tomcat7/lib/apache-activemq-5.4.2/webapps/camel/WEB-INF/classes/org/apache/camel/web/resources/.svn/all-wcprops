@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources
+END
+EndpointsResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/EndpointsResource.class
+END
+Constants.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/Constants.class
+END
+EndpointResource$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/EndpointResource$1.class
+END
+LanguagesResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/LanguagesResource.class
+END
+ConvertersFromResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/ConvertersFromResource.class
+END
+EndpointResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/EndpointResource.class
+END
+RoutesResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/RoutesResource.class
+END
+ExchangeResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/ExchangeResource.class
+END
+CamelChildResourceSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/CamelChildResourceSupport.class
+END
+LanguageResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/LanguageResource.class
+END
+ComponentsResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/ComponentsResource.class
+END
+CamelContextResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/CamelContextResource.class
+END
+ConvertersResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/ConvertersResource.class
+END
+RouteResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/RouteResource.class
+END
+ComponentResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/ComponentResource.class
+END
+RouteStatusResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/resources/RouteStatusResource.class
+END

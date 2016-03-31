@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example2
+END
+SimpleJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example2/SimpleJob.java
+END
+SimpleTriggerExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example2/SimpleTriggerExample.java
+END

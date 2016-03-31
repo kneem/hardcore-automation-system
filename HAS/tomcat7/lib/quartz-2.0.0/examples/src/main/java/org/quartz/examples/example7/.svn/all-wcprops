@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example7
+END
+DumbInterruptableJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example7/DumbInterruptableJob.java
+END
+InterruptExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example7/InterruptExample.java
+END

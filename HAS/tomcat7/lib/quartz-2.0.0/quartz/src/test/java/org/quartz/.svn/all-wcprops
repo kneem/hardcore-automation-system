@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz
+END
+JobDataMapTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/JobDataMapTest.java
+END
+CalendarIntervalTriggerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/CalendarIntervalTriggerTest.java
+END
+AnnualCalendarTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/AnnualCalendarTest.java
+END
+SerializationTestSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/SerializationTestSupport.java
+END
+TriggerBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/TriggerBuilderTest.java
+END
+Quartz601Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/Quartz601Test.java
+END
+SimpleTriggerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/SimpleTriggerTest.java
+END
+SchedulerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/SchedulerTest.java
+END
+JobBuilderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/JobBuilderTest.java
+END
+CronExpressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/CronExpressionTest.java
+END
+PriorityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/PriorityTest.java
+END
+MonthlyCalendarTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/MonthlyCalendarTest.java
+END
+CronTriggerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/CronTriggerTest.java
+END
+VersionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/VersionTest.java
+END
+TriggerComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/TriggerComparatorTest.java
+END
+JobDetailTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/JobDetailTest.java
+END

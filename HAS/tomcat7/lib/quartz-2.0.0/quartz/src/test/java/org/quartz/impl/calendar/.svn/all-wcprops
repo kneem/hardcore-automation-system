@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/impl/calendar
+END
+BaseCalendarTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/impl/calendar/BaseCalendarTest.java
+END
+DailyCalendarTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/impl/calendar/DailyCalendarTest.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/jsp/security/protected
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/jsp/security/protected/index.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/jsp/security/protected/login.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/jsp/security/protected/error.jsp
+END
+index.jsp.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/jsp/security/protected/index.jsp.html
+END
+login.jsp.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/jsp/security/protected/login.jsp.html
+END
+error.jsp.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/jsp/security/protected/error.jsp.html
+END

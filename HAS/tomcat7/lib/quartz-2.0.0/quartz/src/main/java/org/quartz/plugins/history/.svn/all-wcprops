@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/plugins/history
+END
+LoggingJobHistoryPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/plugins/history/LoggingJobHistoryPlugin.java
+END
+LoggingTriggerHistoryPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/plugins/history/LoggingTriggerHistoryPlugin.java
+END

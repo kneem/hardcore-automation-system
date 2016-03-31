@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/80/trunk/HAS/tomcat7/webapps/HAS
+END
+hvac.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/80/trunk/HAS/tomcat7/webapps/HAS/hvac.xml
+END
+lighting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/80/trunk/HAS/tomcat7/webapps/HAS/lighting.xml
+END
+tempfile.2.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/69/trunk/HAS/tomcat7/webapps/HAS/tempfile.2.tmp
+END
+tempfile.tmp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/69/trunk/HAS/tomcat7/webapps/HAS/tempfile.tmp
+END
+security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/80/trunk/HAS/tomcat7/webapps/HAS/security.xml
+END
+user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/53/trunk/HAS/tomcat7/webapps/HAS/user.xml
+END

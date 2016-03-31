@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes
+END
+application-doc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/application-doc.xml
+END
+application-grammars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/application-grammars.xml
+END
+application.wadl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/application.wadl
+END
+resourcedoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/resourcedoc.xml
+END

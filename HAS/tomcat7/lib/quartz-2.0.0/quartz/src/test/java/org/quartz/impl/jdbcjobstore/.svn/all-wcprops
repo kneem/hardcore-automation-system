@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/impl/jdbcjobstore
+END
+StdJDBCDelegateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/test/java/org/quartz/impl/jdbcjobstore/StdJDBCDelegateTest.java
+END

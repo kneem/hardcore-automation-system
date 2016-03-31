@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile
+END
+lightpower.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/HAS/WebContent/mobile/lightpower.jsp
+END
+components.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/HAS/WebContent/mobile/components.jsp
+END
+hvacstatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile/hvacstatus.jsp
+END
+secpower.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile/secpower.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/HAS/WebContent/mobile/header.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/72/trunk/HAS/WebContent/mobile/home.jsp
+END
+lighttemp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile/lighttemp.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/72/trunk/HAS/WebContent/mobile/footer.jsp
+END
+secconfig.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile/secconfig.jsp
+END
+lighting.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile/lighting.jsp
+END
+security.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile/security.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/84/trunk/HAS/WebContent/mobile/login.jsp
+END
+accountsettings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile/accountsettings.jsp
+END
+lightsched.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/72/trunk/HAS/WebContent/mobile/lightsched.jsp
+END
+hvac.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile/hvac.jsp
+END
+tempset.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile/tempset.jsp
+END
+lightadjust.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/86/trunk/HAS/WebContent/mobile/lightadjust.jsp
+END

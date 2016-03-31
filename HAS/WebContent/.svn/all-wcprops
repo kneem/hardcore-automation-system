@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/87/trunk/HAS/WebContent
+END
+hvacstatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/77/trunk/HAS/WebContent/hvacstatus.jsp
+END
+components.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/79/trunk/HAS/WebContent/components.jsp
+END
+pin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/80/trunk/HAS/WebContent/pin.jsp
+END
+temp-scheduling.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/59/trunk/HAS/WebContent/temp-scheduling.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/58/trunk/HAS/WebContent/header.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/85/trunk/HAS/WebContent/home.jsp
+END
+lighting-scheduling.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/58/trunk/HAS/WebContent/lighting-scheduling.jsp
+END
+set-temp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/69/trunk/HAS/WebContent/set-temp.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/53/trunk/HAS/WebContent/footer.jsp
+END
+adjust-brightness.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/77/trunk/HAS/WebContent/adjust-brightness.jsp
+END
+settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/80/trunk/HAS/WebContent/settings.jsp
+END
+redirect.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/63/trunk/HAS/WebContent/redirect.jsp
+END
+lighting.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/80/trunk/HAS/WebContent/lighting.jsp
+END
+config.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/80/trunk/HAS/WebContent/config.jsp
+END
+colour-temp.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/77/trunk/HAS/WebContent/colour-temp.jsp
+END
+security.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/87/trunk/HAS/WebContent/security.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/75/trunk/HAS/WebContent/index.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/83/trunk/HAS/WebContent/login.jsp
+END
+lightingstatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/77/trunk/HAS/WebContent/lightingstatus.jsp
+END
+securitystatus.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/87/trunk/HAS/WebContent/securitystatus.jsp
+END
+hvac.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/77/trunk/HAS/WebContent/hvac.jsp
+END

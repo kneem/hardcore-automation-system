@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib
+END
+activemq-protobuf-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/activemq-protobuf-1.1.jar
+END
+camel-core-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/camel-core-2.4.0.jar
+END
+camel-jms-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/camel-jms-2.4.0.jar
+END
+stax-1.2.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/stax-1.2.0.jar
+END
+activemq-console-5.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/activemq-console-5.4.2.jar
+END
+camel-jetty-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/camel-jetty-2.4.0.jar
+END
+kahadb-5.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/kahadb-5.4.2.jar
+END
+geronimo-jta_1.0.1B_spec-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/geronimo-jta_1.0.1B_spec-1.0.1.jar
+END
+camel-spring-2.4.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/camel-spring-2.4.0.jar
+END
+stax-api-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/stax-api-1.0.1.jar
+END
+jaxb-impl-2.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/jaxb-impl-2.1.6.jar
+END
+activemq-web-5.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/activemq-web-5.4.2.jar
+END
+activemq-jaas-5.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/activemq-jaas-5.4.2.jar
+END
+jaxb-api-2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/jaxb-api-2.1.jar
+END
+geronimo-jms_1.1_spec-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/geronimo-jms_1.1_spec-1.1.1.jar
+END
+activemq-camel-5.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/activemq-camel-5.4.2.jar
+END
+commons-logging-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/commons-logging-1.1.jar
+END
+activation-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/activation-1.1.jar
+END
+geronimo-j2ee-management_1.1_spec-1.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar
+END
+activemq-core-5.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/lib/activemq-core-5.4.2.jar
+END

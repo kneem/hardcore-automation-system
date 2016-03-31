@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils
+END
+JNDIConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/JNDIConnectionProvider.java
+END
+DBConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/DBConnectionManager.java
+END
+PoolingConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/PoolingConnectionProvider.java
+END
+CircularLossyQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/CircularLossyQueue.java
+END
+DirtyFlagMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/DirtyFlagMap.java
+END
+StringKeyDirtyFlagMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/StringKeyDirtyFlagMap.java
+END
+ClassUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/ClassUtils.java
+END
+UpdateChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/UpdateChecker.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/Key.java
+END
+PropertiesParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/PropertiesParser.java
+END
+ConnectionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/ConnectionProvider.java
+END

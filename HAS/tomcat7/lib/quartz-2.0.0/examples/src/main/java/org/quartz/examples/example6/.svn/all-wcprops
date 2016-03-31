@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example6
+END
+BadJob1.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example6/BadJob1.java
+END
+BadJob2.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example6/BadJob2.java
+END
+JobExceptionExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example6/JobExceptionExample.java
+END

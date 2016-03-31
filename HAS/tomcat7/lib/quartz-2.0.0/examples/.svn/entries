@@ -1,0 +1,215 @@
+10
+
+dir
+87
+https://hardcore-automation-system.googlecode.com/svn/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples
+https://hardcore-automation-system.googlecode.com/svn
+
+
+
+2011-03-27T01:24:05.337848Z
+23
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a59c25e4-c386-647b-6adf-11d09d8edeb5
+
+example4
+dir
+
+example5
+dir
+
+example6
+dir
+
+example7
+dir
+
+example8
+dir
+
+example9
+dir
+
+src
+dir
+
+build.properties
+file
+
+
+
+
+2011-03-29T23:54:05.216605Z
+1400529b30da0fa3abd18186fb92f539
+2011-03-27T01:24:05.337848Z
+23
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62
+
+pom.xml
+file
+
+
+
+
+2011-03-29T23:54:05.217605Z
+32077fe482af14450fd72ec6e3fe88ea
+2011-03-27T01:24:05.337848Z
+23
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+914
+
+example10
+dir
+
+example11
+dir
+
+example12
+dir
+
+build.xml
+file
+
+
+
+
+2011-03-29T23:54:05.217605Z
+b89f56f3a42601056b7785562e458d88
+2011-03-27T01:24:05.337848Z
+23
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1613
+
+example13
+dir
+
+example14
+dir
+
+example15
+dir
+
+bin
+dir
+
+examples_guide.txt
+file
+
+
+
+
+2011-03-29T23:54:05.218605Z
+8e3d29ed2ab482397efd7f543d9f0980
+2011-03-27T01:24:05.337848Z
+23
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1040
+
+example1
+dir
+
+example2
+dir
+
+example3
+dir
+

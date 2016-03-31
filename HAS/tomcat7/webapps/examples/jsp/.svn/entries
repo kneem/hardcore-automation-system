@@ -1,0 +1,190 @@
+10
+
+dir
+87
+https://hardcore-automation-system.googlecode.com/svn/trunk/HAS/tomcat7/webapps/examples/jsp
+https://hardcore-automation-system.googlecode.com/svn
+
+
+
+2011-03-21T17:59:20.612952Z
+4
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a59c25e4-c386-647b-6adf-11d09d8edeb5
+
+chat
+dir
+
+include
+dir
+
+simpletag
+dir
+
+checkbox
+dir
+
+error
+dir
+
+tagplugin
+dir
+
+source.jsp
+file
+
+
+
+
+2011-03-29T23:53:44.590425Z
+a69b13136dc98f5a8a08738ca8b3aa0f
+2011-03-21T17:59:20.612952Z
+4
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+972
+
+plugin
+dir
+
+source.jsp.html
+file
+
+
+
+
+2011-03-29T23:53:44.591425Z
+4942d129f77686e26b57e7c016819002
+2011-03-21T17:59:20.612952Z
+4
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1025
+
+num
+dir
+
+cal
+dir
+
+jsptoserv
+dir
+
+snp
+dir
+
+dates
+dir
+
+xml
+dir
+
+colors
+dir
+
+forward
+dir
+
+images
+dir
+
+sessions
+dir
+
+security
+dir
+
+index.html
+file
+
+
+
+
+2011-03-29T23:53:44.592425Z
+953fe2b21eba2568fe6bf1e880a75faa
+2011-03-21T17:59:20.612952Z
+4
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17069
+
+async
+dir
+
+jsp2
+dir
+

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/trunk/HAS/src/com/hardcoresoft/has/datastorage
+END
+LightingData.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/HAS/src/com/hardcoresoft/has/datastorage/LightingData.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/49/trunk/HAS/src/com/hardcoresoft/has/datastorage/Utils.java
+END
+SecurityData.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/47/trunk/HAS/src/com/hardcoresoft/has/datastorage/SecurityData.java
+END
+LightingDataController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/51/trunk/HAS/src/com/hardcoresoft/has/datastorage/LightingDataController.java
+END
+HVACScheduleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/HAS/src/com/hardcoresoft/has/datastorage/HVACScheduleNode.java
+END
+SecurityDataController.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/51/trunk/HAS/src/com/hardcoresoft/has/datastorage/SecurityDataController.java
+END
+UserData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/49/trunk/HAS/src/com/hardcoresoft/has/datastorage/UserData.java
+END
+HVACData.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/42/trunk/HAS/src/com/hardcoresoft/has/datastorage/HVACData.java
+END
+SecurityMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/34/trunk/HAS/src/com/hardcoresoft/has/datastorage/SecurityMode.java
+END
+UserDataController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/51/trunk/HAS/src/com/hardcoresoft/has/datastorage/UserDataController.java
+END
+UserDataNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/49/trunk/HAS/src/com/hardcoresoft/has/datastorage/UserDataNode.java
+END
+HVACDataController.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/52/trunk/HAS/src/com/hardcoresoft/has/datastorage/HVACDataController.java
+END
+lighting.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31/trunk/HAS/src/com/hardcoresoft/has/datastorage/lighting.xsd
+END
+LightingSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/47/trunk/HAS/src/com/hardcoresoft/has/datastorage/LightingSchedule.java
+END
+SecuritySchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/47/trunk/HAS/src/com/hardcoresoft/has/datastorage/SecuritySchedule.java
+END
+security.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33/trunk/HAS/src/com/hardcoresoft/has/datastorage/security.xsd
+END
+HVACStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/69/trunk/HAS/src/com/hardcoresoft/has/datastorage/HVACStatus.java
+END
+UserPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/34/trunk/HAS/src/com/hardcoresoft/has/datastorage/UserPermission.java
+END
+LightingScheduleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/47/trunk/HAS/src/com/hardcoresoft/has/datastorage/LightingScheduleNode.java
+END
+SecurityScheduleNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/47/trunk/HAS/src/com/hardcoresoft/has/datastorage/SecurityScheduleNode.java
+END
+user.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/trunk/HAS/src/com/hardcoresoft/has/datastorage/user.xsd
+END
+DataStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/71/trunk/HAS/src/com/hardcoresoft/has/datastorage/DataStorage.java
+END
+HVACSchedule.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/47/trunk/HAS/src/com/hardcoresoft/has/datastorage/HVACSchedule.java
+END
+hvac.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/trunk/HAS/src/com/hardcoresoft/has/datastorage/hvac.xsd
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/jobs
+END
+FileScanJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/jobs/FileScanJob.java
+END
+DirectoryScanListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/jobs/DirectoryScanListener.java
+END
+NativeJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/jobs/NativeJob.java
+END
+DirectoryScanJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/jobs/DirectoryScanJob.java
+END
+NoOpJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/jobs/NoOpJob.java
+END
+FileScanListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/jobs/FileScanListener.java
+END

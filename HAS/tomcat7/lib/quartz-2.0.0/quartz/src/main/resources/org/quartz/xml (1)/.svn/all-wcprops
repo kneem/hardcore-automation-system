@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/resources/org/quartz/xml
+END
+job_scheduling_data_2_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/resources/org/quartz/xml/job_scheduling_data_2_0.xsd
+END
+job_scheduling_data_1_8.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/resources/org/quartz/xml/job_scheduling_data_1_8.xsd
+END

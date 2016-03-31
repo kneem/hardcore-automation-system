@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/counter/sampled
+END
+SampledRateCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/counter/sampled/SampledRateCounter.java
+END
+SampledRateCounterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/counter/sampled/SampledRateCounterImpl.java
+END
+SampledCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/counter/sampled/SampledCounter.java
+END
+SampledRateCounterConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/counter/sampled/SampledRateCounterConfig.java
+END
+SampledCounterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/counter/sampled/SampledCounterImpl.java
+END
+TimeStampedCounterValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/counter/sampled/TimeStampedCounterValue.java
+END
+SampledCounterConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/utils/counter/sampled/SampledCounterConfig.java
+END

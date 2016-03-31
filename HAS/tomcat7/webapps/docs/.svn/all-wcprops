@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs
+END
+connectors.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/connectors.html
+END
+mbeans-descriptor-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/mbeans-descriptor-howto.html
+END
+deployer-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/deployer-howto.html
+END
+RELEASE-NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/RELEASE-NOTES.txt
+END
+jasper-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/jasper-howto.html
+END
+logging.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/logging.html
+END
+jndi-datasource-examples-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/jndi-datasource-examples-howto.html
+END
+windows-service-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/windows-service-howto.html
+END
+RUNNING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/RUNNING.txt
+END
+virtual-hosting-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/virtual-hosting-howto.html
+END
+ssl-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/ssl-howto.html
+END
+setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/setup.html
+END
+cgi-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/cgi-howto.html
+END
+maven-jars.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/maven-jars.html
+END
+security-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/security-howto.html
+END
+default-servlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/default-servlet.html
+END
+developers.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/developers.html
+END
+html-manager-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/html-manager-howto.html
+END
+security-manager-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/security-manager-howto.html
+END
+proxy-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/proxy-howto.html
+END
+cluster-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/cluster-howto.html
+END
+introduction.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/introduction.html
+END
+apr.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/apr.html
+END
+monitoring.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/monitoring.html
+END
+changelog.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/changelog.html
+END
+jndi-resources-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/jndi-resources-howto.html
+END
+ssi-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/ssi-howto.html
+END
+building.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/building.html
+END
+realm-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/realm-howto.html
+END
+balancer-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/balancer-howto.html
+END
+extras.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/extras.html
+END
+class-loader-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/class-loader-howto.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/index.html
+END
+aio.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/aio.html
+END
+BUILDING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/BUILDING.txt
+END
+manager-howto.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/docs/manager-howto.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example12
+END
+SimpleJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example12/SimpleJob.java
+END
+RemoteClientExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example12/RemoteClientExample.java
+END
+RemoteServerExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/examples/src/main/java/org/quartz/examples/example12/RemoteServerExample.java
+END

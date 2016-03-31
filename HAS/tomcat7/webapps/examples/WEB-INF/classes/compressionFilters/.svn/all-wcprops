@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/compressionFilters
+END
+CompressionFilterTestServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.class
+END
+CompressionResponseStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.class
+END
+CompressionServletResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.java
+END
+CompressionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.java
+END
+CompressionServletResponseWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.class
+END
+CompressionFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.class
+END
+CompressionResponseStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.java
+END
+CompressionFilterTestServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.java
+END

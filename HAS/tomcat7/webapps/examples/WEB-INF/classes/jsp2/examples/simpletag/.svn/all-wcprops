@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag
+END
+EchoAttributesTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.java
+END
+FindBookSimpleTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.java
+END
+HelloWorldSimpleTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.java
+END
+ShuffleSimpleTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.java
+END
+TileSimpleTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.java
+END
+FindBookSimpleTag.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.class
+END
+HelloWorldSimpleTag.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.class
+END
+EchoAttributesTag.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.class
+END
+RepeatSimpleTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.java
+END
+ShuffleSimpleTag.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.class
+END
+TileSimpleTag.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.class
+END
+RepeatSimpleTag.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/4/trunk/HAS/tomcat7/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.class
+END

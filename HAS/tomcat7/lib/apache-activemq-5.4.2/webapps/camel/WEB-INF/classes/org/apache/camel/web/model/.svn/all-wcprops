@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/model
+END
+EndpointLink.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/model/EndpointLink.class
+END
+Route.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/model/Route.class
+END
+Camel.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/model/Camel.class
+END
+Endpoints.class
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/model/Endpoints.class
+END
+package-info.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/model/package-info.class
+END
+jaxb.index
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/WEB-INF/classes/org/apache/camel/web/model/jaxb.index
+END

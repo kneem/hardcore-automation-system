@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/24/trunk/HAS/tomcat7/lib
+END
+annotations-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/annotations-api.jar
+END
+ecj-3.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/ecj-3.6.jar
+END
+c3p0-0.9.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/24/trunk/HAS/tomcat7/lib/c3p0-0.9.1.1.jar
+END
+el-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/el-api.jar
+END
+tomcat-i18n-es.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/tomcat-i18n-es.jar
+END
+tomcat-i18n-fr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/tomcat-i18n-fr.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/24/trunk/HAS/tomcat7/lib/jta-1.1.jar
+END
+catalina.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/catalina.jar
+END
+jasper-el.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/jasper-el.jar
+END
+activemq-all-5.4.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/22/trunk/HAS/tomcat7/lib/activemq-all-5.4.2.jar
+END
+jasper.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/jasper.jar
+END
+tomcat-coyote.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/tomcat-coyote.jar
+END
+quartz-all-2.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-all-2.0.0.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/24/trunk/HAS/tomcat7/lib/slf4j-api-1.6.1.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/servlet-api.jar
+END
+catalina-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/catalina-ant.jar
+END
+tomcat-i18n-ja.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/tomcat-i18n-ja.jar
+END
+tomcat-dbcp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/tomcat-dbcp.jar
+END
+tomcat-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/tomcat-api.jar
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/24/trunk/HAS/tomcat7/lib/log4j.properties
+END
+log4j-1.2.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/24/trunk/HAS/tomcat7/lib/log4j-1.2.14.jar
+END
+catalina-tribes.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/catalina-tribes.jar
+END
+tomcat-util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/tomcat-util.jar
+END
+catalina-ha.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/catalina-ha.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/jsp-api.jar
+END
+slf4j-log4j12-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/24/trunk/HAS/tomcat7/lib/slf4j-log4j12-1.6.1.jar
+END

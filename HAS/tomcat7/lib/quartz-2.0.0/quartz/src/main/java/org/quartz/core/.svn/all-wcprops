@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core
+END
+JobRunShellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/JobRunShellFactory.java
+END
+QuartzSchedulerResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/QuartzSchedulerResources.java
+END
+SampledStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/SampledStatistics.java
+END
+RemotableQuartzScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/RemotableQuartzScheduler.java
+END
+ListenerManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/ListenerManagerImpl.java
+END
+SampledStatisticsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/SampledStatisticsImpl.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/mbeans-descriptors.xml
+END
+QuartzScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/QuartzScheduler.java
+END
+SchedulerSignalerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/SchedulerSignalerImpl.java
+END
+JobRunShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/JobRunShell.java
+END
+QuartzSchedulerMBeanImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/QuartzSchedulerMBeanImpl.java
+END
+QuartzSchedulerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/QuartzSchedulerThread.java
+END
+NullSampledStatisticsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/NullSampledStatisticsImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/core/package.html
+END

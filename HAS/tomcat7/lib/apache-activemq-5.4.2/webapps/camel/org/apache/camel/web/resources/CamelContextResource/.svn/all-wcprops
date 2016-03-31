@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/org/apache/camel/web/resources/CamelContextResource
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/org/apache/camel/web/resources/CamelContextResource/index.jsp
+END
+api.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/org/apache/camel/web/resources/CamelContextResource/api.jsp
+END
+systemProperties.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/4/trunk/HAS/tomcat7/lib/apache-activemq-5.4.2/webapps/camel/org/apache/camel/web/resources/CamelContextResource/systemProperties.jsp
+END

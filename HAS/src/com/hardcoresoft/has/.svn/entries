@@ -1,0 +1,83 @@
+10
+
+dir
+87
+https://hardcore-automation-system.googlecode.com/svn/trunk/HAS/src/com/hardcoresoft/has
+https://hardcore-automation-system.googlecode.com/svn
+
+
+
+2011-03-29T11:06:08.947952Z
+80
+andrei.tulai@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a59c25e4-c386-647b-6adf-11d09d8edeb5
+
+exceptions
+dir
+
+servlets
+dir
+
+security
+dir
+
+ComponentTypes.java
+file
+
+
+
+
+2011-03-29T23:53:20.133026Z
+95af8d59a4342b6fc4e9e6ed88b2425b
+2011-03-25T19:55:54.968199Z
+9
+sinbios@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+99
+
+listeners
+dir
+
+messaging
+dir
+
+util
+dir
+
+datastorage
+dir
+

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl
+END
+JobDetailImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/JobDetailImpl.java
+END
+DirectSchedulerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/DirectSchedulerFactory.java
+END
+StdSchedulerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/StdSchedulerFactory.java
+END
+JobExecutionContextImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/JobExecutionContextImpl.java
+END
+StdScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/StdScheduler.java
+END
+StdJobRunShellFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/StdJobRunShellFactory.java
+END
+RemoteScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/RemoteScheduler.java
+END
+SchedulerDetailsSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/SchedulerDetailsSetter.java
+END
+QuartzServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/QuartzServer.java
+END
+RemoteMBeanScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/RemoteMBeanScheduler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/package.html
+END
+SchedulerRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/23/trunk/HAS/tomcat7/lib/quartz-2.0.0/quartz/src/main/java/org/quartz/impl/SchedulerRepository.java
+END
